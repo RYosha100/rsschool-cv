@@ -1,5 +1,4 @@
 ## **rsschool-cv**
-
 ***
 # **Aliaksei Shaviakou**
 
@@ -22,6 +21,8 @@ I graduated from [**Polotsk State University**](https://www.psu.by/en/) in 2000.
 I was  in the army for one year, served in command and intelligence center, part of my duties were translation and PC's.
 
 Got also a hobby. It's photography and I am fond of working with different raw-converters as Capture One etc. I took part in some projects related to [**Phase One Capture One**](https://g.co/kgs/8SG3ro) featured software and now I've understood that JS knowledge is what I need to make my work going to higher level. That's my goal of learning in **RSSchool**.
+
+***
   
 ## **Languages**
 
@@ -29,10 +30,12 @@ Got also a hobby. It's photography and I am fond of working with different raw-c
 * English (A2)
 * Belarusian
 
+***
+
 ## **Code example**
 
 
-```<?xml version="1.0"?>
+```
 <SL Engine="1400">
 	<E K="ColorBalance" V="1;1;1" />
 	<E K="ColorBalanceHighlight" V="0.943328499794006;0.959751725196838;0.987500011920929" />
