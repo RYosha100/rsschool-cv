@@ -1,4 +1,140 @@
-*{
-    margin: 0;
-    padding: 0;
+html {
+    scroll-behavior: smooth; 
+  }
+
+
+
+
+  .nav-list {
+    background: #fff0bb;    
+    margin-left: auto;
+    list-style: inside;
+    padding: 0 20px 0 20px;
+    line-height: 15px;
+    font-size: 15px;
+    display: flex;
+    
+    text-decoration: none;
+    color: #ffe882;
+    transition: color 0.5s;
+    
+     
+
+  }
+
+
+
+.wrapper {
+    min-height: 100%;
+    margin: 20px auto;
+    width: 60em;
+    align-self: center;
+    vertical-align: baseline;
+    flex-direction: column;
+    
+}
+
+.content {
+    
+    display: flex;
+    height: 90%;    
+    flex-direction: row;
+    
+}
+
+.first {
+    
+    flex-basis: content;
+    width: 30%;
+    flex-direction: column;
+    background-color: #fff3c7;
+}
+
+.portrait {
+    min-height: 20%;
+    
+    padding: 40px 40px 0 40px;
+    
+}
+
+.second {
+    display: flex;
+    width: 70%;
+    padding: 0 0 0 0;
+    flex-direction: column;
+    text-align: center;
+    background-color: #fdf8e2;
+    
+}
+
+.name {
+    display: flex;
+    width: 300px;
+    font-size: 30px;
+    padding: 0 0 0 20px;
+}
+
+.contacts {
+    text-align: left;
+    padding: 0 0 0 40px;
+    
+}
+
+.location {
+    text-align: left;
+    line-height: 1;
+    padding: 0 0 0 5px;
+}
+
+
+
+.about {
+        
+    padding: 0 10px 0 25px;
+    
+}
+
+.bout {
+     
+    display: flex;
+    width: 300px;
+    font-size: 30px;
+    padding: 0 0 0 20px;
+}
+.text {
+    display: flex;    
+    padding: 20px;
+
+}
+
+.content {
+    flex: 1 1 auto;
+}
+
+.edu {
+    line-height: 0.35;
+}
+
+.footer {
+    background-color: #ffea8a;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin: 20px 20px;
+    height: 25px;
+    justify-content: lefts;
+}
+
+.year {
+    height: 15px;  
+    justify-content: center;
+}
+
+.ghlogo {
+    margin: 20px 20px;
+    height: 25px;   
 }
